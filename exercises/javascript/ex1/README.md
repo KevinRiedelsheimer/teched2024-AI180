@@ -4,7 +4,7 @@ In this exercise, you will learn how to send a user-provided prompt using the SA
 You’ll also explore the [harmonized LLM access feature](https://help.sap.com/docs/sap-ai-core/sap-ai-core-service-guide/harmonized-api?locale=en-US) of the orchestration service.
 
 ### 1. Navigate to the Function
-Open [orchestration.ts](../app/src/orchestration.ts) file and search for the function `orchestrationCompletionSimple`.
+Open the [orchestration.ts](../app/src/orchestration.ts) file in the `src` folder and search for the function `orchestrationCompletionSimple`.
 
 ### 2. Add Implementation
 Type or uncomment the following code within the function `orchestrationCompletionSimple`:
