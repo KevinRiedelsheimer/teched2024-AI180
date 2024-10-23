@@ -5,7 +5,7 @@ This track introduces attendees to using orchestration capabilities of SAP Gener
 ## 1. Prerequisite
 
 1. Follow all the instructions as described in the [How to Start](../../README.md#how-to-start) section.
-2. After receiving the test system access details via email, update the [.env](app/.env), by using the attached file.
+2. After receiving the test system access details via email, update the [.env](app/.env) file, by using the provided credentials file.
 ```
 AICORE_SERVICE_KEY='{"clientid": "<demo-credentials-file.js.clientid>","clientsecret": "<demo-credentials-file.js.clientsecret>","url": "<demo-credentials-file.js.url>","serviceurls": {"AI_API_URL": "<demo-credentials-file.js.serviceurls.AI_API_URL>"}}'
 ```
